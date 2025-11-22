@@ -1,7 +1,7 @@
 Feature: Purchase Products
 
   Scenario: Buy Backpack and Bike Light
-    Given the user launches the app
+    Given the user launches the app Sauce
     When the user logs in with "standard_user" and "secret_sauce"
     And the user adds "Sauce Labs Backpack" to the cart
     And the user adds "Sauce Labs Bike Light" to the cart

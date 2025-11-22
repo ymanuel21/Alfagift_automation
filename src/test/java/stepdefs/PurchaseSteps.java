@@ -9,7 +9,7 @@ import org.openqa.selenium.By;
 
 public class PurchaseSteps {
 
-    @Given("the user launches the app")
+    @Given("the user launches the app Sauce")
     public void launchApp() throws Exception {
         AppDriver.start();
     }

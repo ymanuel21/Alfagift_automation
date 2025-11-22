@@ -1,5 +1,5 @@
-stepdefs_copy\PurchaseSteps.class
+stepdefs\PurchaseSteps.class
 stepdefs\AlfaGiftSteps.class
-stepdefs_copy\ApiSteps.class
 runners\RunnerTest.class
+stepdefs\ApiSteps.class
 apitests\FakerApiTest.class

@@ -12,7 +12,7 @@ public class AppDriver {
     private static AndroidDriver driver;
 
     // Change this to switch target
-     public static AppTarget TARGET = AppTarget.SAUCE_EMULATOR; 
+    public static AppTarget TARGET = AppTarget.SAUCE_EMULATOR; 
     // public static AppTarget TARGET = AppTarget.ALFAGIFT_REAL;
 
     public static void start() throws Exception {
