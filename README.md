@@ -8,16 +8,16 @@ It is built using **Java**, **Appium**, and **Maven**, following a clean Page Ob
 ## Project Structure
 
 mobile-test/
-└── mobile-test/
-├── pom.xml
-├── src/
-│ ├── main/
-│ │ └── java/
-│ │ └── page objects, utils, drivers
-│ └── test/
-│ └── java/
-│ └── test cases
-└── .git/
+
+mobile-test/
+  pom.xml
+    src/
+      main/
+        java/
+          page objects, utils, drivers
+      test/
+          resources/features
+    .git/
 
 ---
 
